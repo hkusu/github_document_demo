@@ -47,7 +47,7 @@
 	- `![alt内容（マウスカーソルが当たったときの表示テキスト）](images/○○.jpg)`
 	- こんな感じ↓
 
-![alt内容](images/ichigo.jpg)
+		![alt内容](images/ichigo.jpg)
 
 ## ほか
 
