@@ -134,4 +134,4 @@
 	- [cookpadさんのコーディングガイドライン](https://github.com/cookpad/styleguide)
 	- [mixiさんのトレーニング資料](https://github.com/mixi-inc/iOSTraining)
 		- いろいろありますが、これはiOSのもの
-		- こちらは目次だけリポジトリで管理して、各ページはそのリポジトリのWikiで管理するタイプ
+		- こちらは目次だけリポジトリで管理して、各ページはそのリポジトリのWikiで管理するタイプです。
